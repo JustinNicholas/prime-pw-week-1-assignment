@@ -19,6 +19,7 @@ footer{
 /* Make your p tag a different color and italic */
 .quote-paragraph{
     color: #FEF9EF;
+    font-style: italic;
 }
 /* Put a border around your image */
 .code-img{
